@@ -2,7 +2,7 @@
 <p align="center"><strong>Software Developer | Full Stack Developer</strong></p>
 
 
-<h2 align="left">🛠 Tech Stack</h2>
+### 🛠 &nbsp;Tech Stack
 
 
 

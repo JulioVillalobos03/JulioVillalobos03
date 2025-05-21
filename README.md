@@ -1,4 +1,6 @@
 <h1 align="center">Hi, I'm Julio Villalobos <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<br clear="both">
+
 <h1 align="center">Software Developer | Full Stack Developer</h1>
 
 <h2 align="left">🛠 Tech Stack</h2>
